@@ -1,4 +1,4 @@
-Insight Data Engineering - Coding Challenge
+Insight Data Engineering Coding Challenge - John Bowler's Submission
 ===========================================================
 
 Feature 1 uses `mincemeat.py`, provided in `src` - a simple one-file MapReduce implementation. `run.sh` runs a server process (`words_tweeted.py`) and a single client process (`mincemeat.py`), but it is possible to run multiple clients.
